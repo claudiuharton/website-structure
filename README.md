@@ -12,4 +12,4 @@ Presequels (Install):
 1. `cd website-structure`
 1. `npm install`
 1. `npm start`
-1. enter your ([website page](http://localhost:80))
+1. enter your [website page](http://localhost:80)

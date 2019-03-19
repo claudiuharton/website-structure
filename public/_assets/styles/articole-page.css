@@ -1,0 +1,19 @@
+/* This will apply to all h1 elements */
+h1 {
+  color: blue;
+}
+
+/* This way css applies only inside section 1 */
+#section1 h2 {
+  color: red;
+}
+
+/* This way css applies only inside section 2 */
+#section2 h2 {
+  color: green;
+}
+
+/* This way css applies only inside footer */
+footer p {
+  color: orange;
+}

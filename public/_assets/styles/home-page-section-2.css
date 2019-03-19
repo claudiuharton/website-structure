@@ -1,0 +1,4 @@
+/* This way css applies only inside section 2 */
+#section2 h2 {
+  color: green;
+}

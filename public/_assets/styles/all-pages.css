@@ -1,0 +1,10 @@
+/* This css will apply to all pages */
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+h1 {
+  font-size: 25px;
+}

@@ -1,0 +1,11 @@
+/* This will apply to all h1 elements */
+h1 {
+  /* this font-size will replace the one from all-pages.css */
+  font-size: 50px;
+  color: green;
+}
+
+/* This way css applies only inside footer */
+footer p {
+  color: orange;
+}
